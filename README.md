@@ -1,6 +1,8 @@
-# Scenario-1 : Earth Observation [25 Marks]
+# Scenario-1 : Earth Observation
 The Ministry of Environment has commissioned an AI-based audit of the Delhi Airshed to
-identify land use patterns and pollution sources. You are provided the following datasets:
+identify land use patterns and pollution sources. 
+<br> 
+You are provided the following datasets:
 1. Shapefile of the Delhi-NCR region (EPSG:4326) [File]
 2. Sentinel-2 RGB image patches (128×128 pixels, 10m/pixel resolution), with each image
 filename mapped to its center coordinates (latitude, longitude) in .png format. [File]
